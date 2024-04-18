@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "expo-cli": "^6.3.10"
-  }
+  },
+  "name": "react_lo_to_shin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
